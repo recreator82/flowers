@@ -2,28 +2,33 @@
   "flowers": [
     {
       "id": 0,
-      "title": "Genesis flower",
-      "image": "https://raw.githubusercontent.com/recreator82/flowers/main/1.jpg"
+      "name": "Genesis flower",
+      "image": "https://raw.githubusercontent.com/recreator82/flowers/main/1.jpg",
+      "description": "Flowers collection"
     },
     {
       "id": 1,
-      "title": "Flower 2",
-      "image": "https://raw.githubusercontent.com/recreator82/flowers/main/2.jpg"
+      "name": "Flower 2",
+      "image": "https://raw.githubusercontent.com/recreator82/flowers/main/2.jpg",
+      "description": "Flowers collection"
     },
     {
       "id": 2,
-      "title": "Flower 3",
-      "image": "https://raw.githubusercontent.com/recreator82/flowers/main/3.jpg"
+      "name": "Flower 3",
+      "image": "https://raw.githubusercontent.com/recreator82/flowers/main/3.jpg",
+      "description": "Flowers collection"
     },
     {
       "id": 3,
-      "title": "Flower 4",
-      "image": "https://raw.githubusercontent.com/recreator82/flowers/main/4.jpg"
+      "name": "Flower 4",
+      "image": "https://raw.githubusercontent.com/recreator82/flowers/main/4.jpg",
+      "description": "Flowers collection"
     },
     {
       "id": 4,
-      "title": "Flower 5",
-      "image": "https://raw.githubusercontent.com/recreator82/flowers/main/animated.gif"
+      "name": "Flower 5",
+      "image": "https://raw.githubusercontent.com/recreator82/flowers/main/animated.gif",
+      "description": "Flowers collection"
     }
   ]
 }
