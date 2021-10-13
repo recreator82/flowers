@@ -19,6 +19,11 @@
       "id": 3,
       "title": "Flower 4",
       "image": "https://raw.githubusercontent.com/recreator82/flowers/main/sunflower.svg"
+    },
+    {
+      "id": 4,
+      "title": "Flower 5",
+      "image": "https://raw.githubusercontent.com/recreator82/flowers/main/animated.gif"
     }
   ]
 }
