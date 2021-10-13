@@ -4,6 +4,16 @@
       "id": 0,
       "title": "Genesis flower",
       "image": "0.jpg"
+    },
+    {
+      "id": 1,
+      "title": "Flower 1",
+      "image": "1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Flower 2",
+      "image": "2.jpg"
     }
   ]
 }
